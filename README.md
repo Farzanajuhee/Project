@@ -1,3 +1,4 @@
 # Project
-This is first repository
-Athor : JUHEE
+This is first repositor
+<br>
+Author : JUHEE
